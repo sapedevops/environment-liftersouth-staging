@@ -1,7 +1,7 @@
 dependencies:
 - name: accounts-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.16
+  version: 0.0.17
 - name: auth-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.10
